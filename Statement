@@ -1,0 +1,17 @@
+## Problem Statement
+Many people cannot easily understand whether their body weight is healthy or not. Without a proper calculation method, they may end up assuming they are healthy or unhealthy. The BMI system solves this by giving a standard measurable value.
+
+## Scope of the Project
+The project calculates BMI based on user input and categorizes users as Underweight, Normal, Overweight, or Obese. It is useful for students, doctors, gym trainers, fitness enthusiasts, and health apps.
+
+## Target Users
+- Students
+- Gym and fitness members
+- Dieticians and doctors
+- Health mobile app users
+
+## High-Level Features
+- Accept height and weight input
+- Calculate BMI using the standard formula
+- Display BMI value and category
+- Handle incorrect input gracefully
